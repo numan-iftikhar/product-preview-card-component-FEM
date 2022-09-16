@@ -9,7 +9,9 @@
 span {
   font-family: "Montserrat", sans-serif;
 }
-
-main {
-  border-radius: 10%;
+#mainContent{
+  border-radius: 2%;
+}
+.media{
+  border-radius: 2%;
 }

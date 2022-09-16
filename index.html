@@ -21,19 +21,20 @@
     <link rel="stylesheet" href="style.css" />
     <title>Frontend Mentor | Product preview card component</title>
   </head>
-  <body class="bg-pink-100">
+  <body class="bg-pink-100 min-h-screen flex justify-center items-center">
     <main
-      class="grid md:grid-cols-2 w-2/3 md:w-1/2 shadow-xl rounded-xl mx-auto my-10 md:mt-32"
+    id="mainContent"
+      class="grid md:grid-cols-2 w-[50rem] shadow-xl bg-white m-8"
     >
       <div class="left">
         <img
           src="images/image-product-desktop.jpg"
           alt="main-img"
-          class="media h-96 w-full rounded-t-lg md:rounded-l-lg"
+          class="media object-fit h-96 w-full"
         />
       </div>
 
-      <div class="right p-8 border bg-white rounded-b-lg md:rounded-r-lg">
+      <div class="right p-8">
         <h6 class="text-slate-500 uppercase tracking-wide text-sm">perfume</h6>
 
         <h1 class="mainHeading text-3xl my-2">
@@ -54,7 +55,7 @@
           <img src="images/icon-cart.svg" class="inline mr-2" /> Add to Cart
         </button>
       </div>
-    </main>
+    </>
     <!--   
   <footer class="attribution text-sm">
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
