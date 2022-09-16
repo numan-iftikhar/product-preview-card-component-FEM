@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/numan-iftikhar/product-preview-card-component-FEM)
-- Live Site URL: [](https://numan-iftikhar.github.io/product-preview-card-component-FEM/)
+- Solution URL: [Github repo](https://github.com/numan-iftikhar/product-preview-card-component-FEM)
+- Live Site URL: [Live link](https://numan-iftikhar.github.io/product-preview-card-component-FEM/)
 
 ## My process
 I first implemented desktop version and then mobile version
