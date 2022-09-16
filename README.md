@@ -49,9 +49,8 @@ I first implemented desktop version and then mobile version
 
 I continued polishing my tailwind skills with this project. I want to practice tailwind and react more and more in future.
 
-
 ## Author
 
 - Website - [Numan Iftikhar](https://numan-iftikhar.github.io/product-preview-card-component-FEM/)
 - Frontend Mentor - [@numan-iftikhar](https://www.frontendmentor.io/profile/numan-iftikhar)
-- Twitter - [@yourusername](https://twitter.com/home)
+- Twitter - [@numan_iftikhar7](https://twitter.com/home)
