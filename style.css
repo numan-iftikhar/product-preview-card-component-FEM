@@ -1,15 +1,15 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
-.mainHeading{
-    font-family: 'Fraunces', serif;
- 
+.mainHeading {
+  font-family: "Fraunces", serif;
 }
-.desc, span{
-   font-family: 'Montserrat', sans-serif;
+.desc,
+span {
+  font-family: "Montserrat", sans-serif;
 }
 
-main{
-    border-radius: 10%;
+main {
+  border-radius: 10%;
 }
