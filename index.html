@@ -24,14 +24,14 @@
   <body class="bg-pink-50 min-h-screen flex justify-center items-center">
     <main
       id="mainContent"
-      class="grid md:grid-cols-2 w-[50rem] shadow-xl bg-white m-8"
+      class="grid sm:grid-cols-2 w-[50rem] shadow-xl bg-white m-8"
     >
       <div class="left">
-        <img
-          src="images/image-product-desktop.jpg"
-          alt="main-img"
-          class="media object-fit h-96 w-full"
-        />
+        <picture class="">
+          <source media="(min-width:645px)" srcset="images/image-product-desktop.jpg">
+          <source media="(max-width:645px)" srcset="images/image-product-mobile.jpg">
+          <img src="images/image-product-mobile.jpg" alt="product image" class="media w-full object-cover h-96">
+        </picture>
       </div>
 
       <div class="right p-8">
